@@ -7,7 +7,7 @@ Alexander Fisher - af17918@bristol.ac.uk
 
 
 ## Our Team
-<table align="center">
+<table align="left">
   <thead>
     <tr>
       <th style="text-align:center">Name</th>
@@ -34,17 +34,17 @@ Alexander Fisher - af17918@bristol.ac.uk
     <tr>
       <td style="text-align:center">Ziyuan Lu</td>
       <td style="text-align:center"><a href="mailto:py23518@bristol.ac.uk">py23518@bristol.ac.uk</a></td>
-      <td style="text-align:center"><a href="https://github.com/blank">@yblank</a></td>
+      <td style="text-align:center"><a href="https://github.com/LzYzL">@LzYzL</a></td>
     </tr>
     <tr>
-      <td style="text-align:center">Zhenhai Qi</td>
-      <td style="text-align:center"><a href="mailto:lc22175@bristol.ac.uk">lc22175@bristol.ac.uk</a></td>
-      <td style="text-align:center"><a href="https://github.com/ZhenhaiQi">@ZhenhaiQi</a></td>
+      <td style="text-align:center">Alexander Fisher</td>
+      <td style="text-align:center"><a href="mailto:af17918@bristol.ac.uk">af17918@bristol.ac.uk</a></td>
+      <td style="text-align:center"><a href="https://github.com/alexandermfisher">@alexandermfisher</a></td>
     </tr>
     <tr>
-      <td style="text-align:center">Zhuobing Yang</td>
+      <td style="text-align:center">Jie Fang</td>
       <td style="text-align:center"><a href="mailto:om22207@bristol.ac.uk">om22207@bristol.ac.uk</a></td>
-      <td style="text-align:center"><a href="https://github.com/om22207">@om22207</a></td>
+      <td style="text-align:center"><a href="https://github.com/Jiebristol">Jiebristol</a></td>
     </tr>
   </tbody>
 </table>
