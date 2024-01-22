@@ -43,4 +43,4 @@
   </tbody>
 </table>
 
-<img title="a title" alt="Alt text" src="/group3.jpg">
+<img title="a title" alt="Alt text" src="/group3.jpg" style="width:500px;height:600px>
