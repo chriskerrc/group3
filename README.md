@@ -18,7 +18,7 @@
     <tr>
       <td style="text-align:center">Florence Rose</td>
       <td style="text-align:center"><a href="mailto:xd23758@bristol.ac.uk">xd23758@bristol.ac.uk</a></td>
-      <td style="text-align:center"><a href="https://github.com/frose2023">@frose2023</a></td>
+      <td style="text-align:center"><a href="https://github.com/frose2024">@frose2024</a></td>
     </tr>
     <tr>
       <td style="text-align:center">Josh Wierszycki</td>
