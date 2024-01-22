@@ -38,7 +38,7 @@
     <tr>
       <td style="text-align:center">Jie Fang</td>
       <td style="text-align:center"><a href="mailto:om22207@bristol.ac.uk">om22207@bristol.ac.uk</a></td>
-      <td style="text-align:center"><a href="https://github.com/Jiebristol">Jiebristol</a></td>
+      <td style="text-align:center"><a href="https://github.com/Jiebristol">@Jiebristol</a></td>
     </tr>
   </tbody>
 </table>
