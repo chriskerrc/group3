@@ -1,6 +1,6 @@
 # group3
 
-Chris Kerr
+Chris Kerr - th23780@bristol.ac.uk
 
 Florence Rose - xd23758@bristol.ac.uk
 
