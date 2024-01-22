@@ -1,8 +1,8 @@
 # Overview of Software Engineering - Group 3
 
-Chris Kerr - th23780@bristol.ac.uk - chriskerrc
+Chris Kerr - th23780@bristol.ac.uk, chriskerrc
 
-Florence Rose - xd23758@bristol.ac.uk
+Florence Rose - xd23758@bristol.ac.uk, frose2023
 
 Josh Wierszycki - el20063@bristol.ac.uk
 
