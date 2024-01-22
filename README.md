@@ -1,17 +1,12 @@
 # Overview of Software Engineering - Group 3
 
-Chris Kerr - th23780@bristol.ac.uk, chriskerrc
 
-Florence Rose - xd23758@bristol.ac.uk, frose2023
-
-Josh Wierszycki - el20063@bristol.ac.uk - JWierszycki
-
-Ziyuan Lu - py23518@bristol.ac.uk
+Ziyuan Lu - 
 
 Alexander Fisher - af17918@bristol.ac.uk
 
 
-## ⭐1. Our Team
+## Our Team
 <table align="center">
   <thead>
     <tr>
@@ -22,24 +17,24 @@ Alexander Fisher - af17918@bristol.ac.uk
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:center">Truman Boles</td>
-      <td style="text-align:center"><a href="mailto:ui22021@bristol.ac.uk">ui22021@bristol.ac.uk</a></td>
-      <td style="text-align:center"><a href="https://github.com/trumanboles">@trumanboles</a></td>
-    </tr>
-    <tr>
-      <td style="text-align:center">Jun Yuan Lim</td>
-      <td style="text-align:center"><a href="mailto:mg22569@bristol.ac.uk">mg22569@bristol.ac.uk</a></td>
-      <td style="text-align:center"><a href="https://github.com/junyuanlim">@junyuanlim</a></td>
-    </tr>
-    <tr>
-      <td style="text-align:center">Ruiyang Ma</td>
-      <td style="text-align:center"><a href="mailto:wd22099@bristol.ac.uk">wd22099@bristol.ac.uk</a></td>
-      <td style="text-align:center"><a href="https://github.com/RyannMa00">@RyannMa00</a></td>
+      <td style="text-align:center">Chris Kerr</td>
+      <td style="text-align:center"><a href="mailto:th23780@bristol.ac.uk">ui22021@bristol.ac.uk</a></td>
+      <td style="text-align:center"><a href="https://github.com/chriskerrc">@chriskerrc</a></td>
     </tr>
     <tr>
       <td style="text-align:center">Florence Rose</td>
-      <td style="text-align:center"><a href="mailto:xd23758@bristol.ac.uk">yu22238@bristol.ac.uk</a></td>
-      <td style="text-align:center"><a href="https://github.com/frose2024">@yu22238</a></td>
+      <td style="text-align:center"><a href="mailto:xd23758@bristol.ac.uk">mg22569@bristol.ac.uk</a></td>
+      <td style="text-align:center"><a href="https://github.com/frose2023">@frose2023</a></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Josh Wierszycki</td>
+      <td style="text-align:center"><a href="mailto:el20063@bristol.ac.uk">el20063@bristol.ac.uk</a></td>
+      <td style="text-align:center"><a href="https://github.com/JWierszycki">@JWierszycki</a></td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Ziyuan Lu</td>
+      <td style="text-align:center"><a href="mailto:py23518@bristol.ac.uk">py23518@bristol.ac.uk</a></td>
+      <td style="text-align:center"><a href="https://github.com/blank">@yblank</a></td>
     </tr>
     <tr>
       <td style="text-align:center">Zhenhai Qi</td>
