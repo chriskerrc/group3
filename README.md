@@ -12,12 +12,12 @@
   <tbody>
     <tr>
       <td style="text-align:center">Chris Kerr</td>
-      <td style="text-align:center"><a href="mailto:th23780@bristol.ac.uk">ui22021@bristol.ac.uk</a></td>
+      <td style="text-align:center"><a href="mailto:th23780@bristol.ac.uk">th23780@bristol.ac.uk</a></td>
       <td style="text-align:center"><a href="https://github.com/chriskerrc">@chriskerrc</a></td>
     </tr>
     <tr>
       <td style="text-align:center">Florence Rose</td>
-      <td style="text-align:center"><a href="mailto:xd23758@bristol.ac.uk">mg22569@bristol.ac.uk</a></td>
+      <td style="text-align:center"><a href="mailto:mg22569@bristol.ac.uk">mg22569@bristol.ac.uk</a></td>
       <td style="text-align:center"><a href="https://github.com/frose2023">@frose2023</a></td>
     </tr>
     <tr>
