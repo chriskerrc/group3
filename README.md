@@ -37,9 +37,9 @@ Alexander Fisher - af17918@bristol.ac.uk
       <td style="text-align:center"><a href="https://github.com/RyannMa00">@RyannMa00</a></td>
     </tr>
     <tr>
-      <td style="text-align:center">Natsumi Ota</td>
-      <td style="text-align:center"><a href="mailto:yu22238@bristol.ac.uk">yu22238@bristol.ac.uk</a></td>
-      <td style="text-align:center"><a href="https://github.com/yu22238">@yu22238</a></td>
+      <td style="text-align:center">Florence Rose</td>
+      <td style="text-align:center"><a href="mailto:xd23758@bristol.ac.uk">yu22238@bristol.ac.uk</a></td>
+      <td style="text-align:center"><a href="https://github.com/frose2024">@yu22238</a></td>
     </tr>
     <tr>
       <td style="text-align:center">Zhenhai Qi</td>
