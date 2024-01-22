@@ -1,11 +1,5 @@
 # Overview of Software Engineering - Group 3
 
-
-Ziyuan Lu - 
-
-Alexander Fisher - af17918@bristol.ac.uk
-
-
 ## Our Team
 <table align="left">
   <thead>
