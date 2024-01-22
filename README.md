@@ -53,8 +53,3 @@ Alexander Fisher - af17918@bristol.ac.uk
     </tr>
   </tbody>
 </table>
-
-
-<p align="center">
-  <img width="750" src="https://github.com/UoB-COMSM0110/2023-group-3/blob/main/teamphoto.jpeg">
-</p>
